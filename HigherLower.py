@@ -9,7 +9,7 @@ def higher_lower():
     is_true=True
     score=0
 
-    #Here the program choses 2 random numbers to to fetch a random website index from the data file by it
+    #Here the program choses 2 random numbers to fetch a random website index from the data file by it
     random_choice_A=random.randint(0,18)
     random_choice_B=random.randint(0,18)
     #if both numbers match, this if condition ensures that they are different
